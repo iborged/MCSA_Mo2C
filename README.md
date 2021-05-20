@@ -1,4 +1,4 @@
-# Monte-Carlo-Simulated-Annealing-MCSA-
+# Monte-Carlo-Simulated-Annealing (MCSA)
 MCSA for cubic molybdenum carbide and titanium carbide.
 
 1. This is a MCSA for Mo2C for a 6x6x6 supercell system.
